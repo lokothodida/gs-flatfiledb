@@ -1,5 +1,6 @@
 # GetSimple FlatFile Database Manager
 A simple JSON flatfile database API and manager for GetSimple CMS.
+
 Designed to manage small tables of data and build plugins that require CRUD operations.
 
 *Currently in ALPHA. Do not use for production.*.
