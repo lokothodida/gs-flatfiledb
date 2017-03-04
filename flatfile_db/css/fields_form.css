@@ -1,0 +1,19 @@
+#flatfiledb .field .name {
+  width: 90px;
+}
+
+#flatfiledb .field .label {
+  width: 150px;
+}
+
+#flatfiledb .field .type {
+  width: 100px;
+}
+
+#flatfiledb .field .default {
+  width: 100px;
+}
+
+#flatfiledb .field ._hidden {
+  width: 50px;
+}

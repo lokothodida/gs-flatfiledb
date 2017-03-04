@@ -1,0 +1,47 @@
+#flatfiledb .container {
+  margin: 0 2px 20px 2px;
+  background: #f9f9f9;
+  border: 1px solid #e8e8e8;
+  padding: 15px 10px 5px 10px;
+  border-radius: 2px;
+  text-shadow: 1px 1px 0 rgba(255,255,255,.3);
+  box-shadow: 0px 0px 2px #cccccc;
+}
+
+#flatfiledb .dataTables_info, #flatfiledb .dataTables_paginate {
+  padding: 5px 0 5px 0;
+}
+
+#flatfiledb .dataTables_length {
+  float: left;
+  margin: 5px 5px 10px 0;
+}
+
+#flatfiledb .dataTables_filter {
+  float: right;
+  margin: 5px 5px 10px 0;
+}
+
+#flatfiledb .dataTable {
+  clear: both;
+  margin: 10px 0 10px 0;
+}
+
+#flatfiledb .paginate_button {
+  cursor: pointer;
+  padding: 3px;
+  color: #D94136 !important;
+  margin: 2px 2px 2px 0;
+}
+
+#flatfiledb .paginate_button::active {
+  border: none;
+}
+
+#flatfiledb .paginate_button:hover {
+  font-weight: normal;
+  background: #D94136;
+  color: #ffffff !important;
+  border-radius: 3px;
+  text-decoration: none;
+}
